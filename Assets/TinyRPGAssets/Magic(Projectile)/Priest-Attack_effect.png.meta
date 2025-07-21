@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -144,20 +144,20 @@ TextureImporter:
       name: Priest-Attack_effect_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 50
-        width: 11
-        height: 26
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7cdab29d0cfbd3f50800000000000000
-      internalID: 6862852242180648391
+      spriteID: 2f5c7f943fe2d47649983035e572e814
+      internalID: -626587805
       vertices: []
       indices: 
       edges: []
@@ -166,20 +166,20 @@ TextureImporter:
       name: Priest-Attack_effect_1
       rect:
         serializedVersion: 2
-        x: 145
-        y: 42
-        width: 15
-        height: 26
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 690333c78ec0567b0800000000000000
-      internalID: -5231761199465287530
+      spriteID: 0317e68e96e56438b940d0234d1cca49
+      internalID: -882035438
       vertices: []
       indices: 
       edges: []
@@ -188,20 +188,20 @@ TextureImporter:
       name: Priest-Attack_effect_2
       rect:
         serializedVersion: 2
-        x: 241
-        y: 40
-        width: 23
-        height: 30
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4ee15fd4a91e071a0800000000000000
-      internalID: -6813698183362437404
+      spriteID: 8bde8f355f82d49d0ba8e7c6672174a2
+      internalID: -569329581
       vertices: []
       indices: 
       edges: []
@@ -210,20 +210,20 @@ TextureImporter:
       name: Priest-Attack_effect_3
       rect:
         serializedVersion: 2
-        x: 340
-        y: 40
-        width: 25
-        height: 32
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 34c72794b706bd010800000000000000
-      internalID: 1214670607135964227
+      spriteID: 1fd65812de89f40d5b8899fea7aec3b5
+      internalID: -1532963941
       vertices: []
       indices: 
       edges: []
@@ -232,42 +232,20 @@ TextureImporter:
       name: Priest-Attack_effect_4
       rect:
         serializedVersion: 2
-        x: 449
-        y: 40
-        width: 7
-        height: 35
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 01aa01a574586aea0800000000000000
-      internalID: -5861851323475908080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Priest-Attack_effect_5
-      rect:
-        serializedVersion: 2
-        x: 236
-        y: 37
-        width: 32
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f0453201622782910800000000000000
-      internalID: 1812824357821699087
+      spriteID: 45753593f6a3c4ca8a9e86ac239c6050
+      internalID: 999438313
       vertices: []
       indices: 
       edges: []
@@ -276,7 +254,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1ace0c390036642cc905f9d83e85e526
     internalID: 0
     vertices: []
     indices: 
@@ -285,7 +263,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Priest-Attack_effect_0: -626587805
+      Priest-Attack_effect_1: -882035438
+      Priest-Attack_effect_2: -569329581
+      Priest-Attack_effect_3: -1532963941
+      Priest-Attack_effect_4: 999438313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
