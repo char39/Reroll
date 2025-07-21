@@ -132,10 +132,10 @@ TextureImporter:
       name: Lancer-Attack01_Effect_0
       rect:
         serializedVersion: 2
-        x: 359
-        y: 50
-        width: 32
-        height: 8
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: Lancer-Attack01_Effect_1
       rect:
         serializedVersion: 2
-        x: 469
-        y: 52
-        width: 20
-        height: 6
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,11 +172,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack01_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129d1df35d9f4a46931f798565a2301
+      internalID: -1708543558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack01_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaeb2ca2130b41d4b25a0bc0a3f8587
+      internalID: 1389181476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack01_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d57391e805254e17a779131f1bfb19c
+      internalID: -139799135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack01_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0e408bae870440387193b9ff36066b
+      internalID: -1318222714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5a58a8e25b4194715919bf8516c73806
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +276,10 @@ TextureImporter:
     nameFileIdTable:
       Lancer-Attack01_Effect_0: 4460961657836602055
       Lancer-Attack01_Effect_1: -6002298587842324889
+      Lancer-Attack01_Effect_2: -1708543558
+      Lancer-Attack01_Effect_3: 1389181476
+      Lancer-Attack01_Effect_4: -139799135
+      Lancer-Attack01_Effect_5: -1318222714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

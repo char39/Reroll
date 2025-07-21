@@ -138,10 +138,10 @@ TextureImporter:
       name: Archer-Death_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 42
-        width: 24
-        height: 19
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Archer-Death_1
       rect:
         serializedVersion: 2
-        x: 138
-        y: 42
-        width: 20
-        height: 18
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Archer-Death_2
       rect:
         serializedVersion: 2
-        x: 235
-        y: 43
-        width: 19
-        height: 15
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Archer-Death_3
       rect:
         serializedVersion: 2
-        x: 334
-        y: 42
-        width: 19
-        height: 12
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2c4315c52be564b5eb26b87c97e757a2
     internalID: 0
     vertices: []
     indices: 

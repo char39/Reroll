@@ -168,10 +168,10 @@ TextureImporter:
       name: Swordsman-Attack3_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 39
-        width: 26
-        height: 23
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: Swordsman-Attack3_1
       rect:
         serializedVersion: 2
-        x: 140
-        y: 39
-        width: 23
-        height: 23
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: Swordsman-Attack3_2
       rect:
         serializedVersion: 2
-        x: 240
-        y: 39
-        width: 23
-        height: 23
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: Swordsman-Attack3_3
       rect:
         serializedVersion: 2
-        x: 340
-        y: 39
-        width: 23
-        height: 23
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: Swordsman-Attack3_4
       rect:
         serializedVersion: 2
-        x: 440
-        y: 39
-        width: 23
-        height: 23
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: Swordsman-Attack3_5
       rect:
         serializedVersion: 2
-        x: 541
-        y: 39
-        width: 39
-        height: 22
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: Swordsman-Attack3_6
       rect:
         serializedVersion: 2
-        x: 642
-        y: 39
-        width: 38
-        height: 22
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: Swordsman-Attack3_7
       rect:
         serializedVersion: 2
-        x: 741
-        y: 39
-        width: 46
-        height: 22
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Swordsman-Attack3_8
       rect:
         serializedVersion: 2
-        x: 758
-        y: 41
-        width: 25
-        height: 7
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: Swordsman-Attack3_9
       rect:
         serializedVersion: 2
-        x: 842
-        y: 39
-        width: 49
-        height: 22
+        x: 900
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: Swordsman-Attack3_10
       rect:
         serializedVersion: 2
-        x: 941
-        y: 39
-        width: 44
-        height: 22
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: Swordsman-Attack3_11
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 39
-        width: 46
-        height: 22
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,55 +428,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Swordsman-Attack3_12
-      rect:
-        serializedVersion: 2
-        x: 1141
-        y: 39
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d951a30bf075b9ec0800000000000000
-      internalID: -3559155355613522531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Swordsman-Attack3_13
-      rect:
-        serializedVersion: 2
-        x: 1158
-        y: 44
-        width: 25
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bb473ce2e134e0360800000000000000
-      internalID: 7137716256341456059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6ad51c0dbc81844ac9edab1241cd11a9
     internalID: 0
     vertices: []
     indices: 
@@ -490,8 +446,6 @@ TextureImporter:
       Swordsman-Attack3_1: -4768643496490000954
       Swordsman-Attack3_10: 279028875897683420
       Swordsman-Attack3_11: -4384314109133796856
-      Swordsman-Attack3_12: -3559155355613522531
-      Swordsman-Attack3_13: 7137716256341456059
       Swordsman-Attack3_2: -3036041988664606002
       Swordsman-Attack3_3: -3113387665142515047
       Swordsman-Attack3_4: 2254026791774940097

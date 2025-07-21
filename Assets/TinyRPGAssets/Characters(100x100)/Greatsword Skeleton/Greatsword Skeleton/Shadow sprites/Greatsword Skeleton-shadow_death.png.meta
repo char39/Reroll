@@ -147,10 +147,10 @@ TextureImporter:
       name: Greatsword Skeleton-shadow_death_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 39
-        width: 17
-        height: 7
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: Greatsword Skeleton-shadow_death_1
       rect:
         serializedVersion: 2
-        x: 125
-        y: 39
-        width: 17
-        height: 6
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: Greatsword Skeleton-shadow_death_2
       rect:
         serializedVersion: 2
-        x: 142
-        y: 39
-        width: 17
-        height: 7
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: Greatsword Skeleton-shadow_death_3
       rect:
         serializedVersion: 2
-        x: 225
-        y: 39
-        width: 17
-        height: 6
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,77 +231,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Greatsword Skeleton-shadow_death_4
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 39
-        width: 24
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5252d25eb31154fa0800000000000000
-      internalID: -5817224394733443803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Greatsword Skeleton-shadow_death_5
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 39
-        width: 17
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf843f05e9bb9f360800000000000000
-      internalID: 7203995367593167100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Greatsword Skeleton-shadow_death_6
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 39
-        width: 24
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c866ae78e2a56dd0800000000000000
-      internalID: -2493407699238754110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5bdb9f5238fb34838aaa66f91adfa69c
     internalID: 0
     vertices: []
     indices: 
@@ -315,9 +249,6 @@ TextureImporter:
       Greatsword Skeleton-shadow_death_1: -729225026454503930
       Greatsword Skeleton-shadow_death_2: -5558785757780306723
       Greatsword Skeleton-shadow_death_3: -8241717645019386143
-      Greatsword Skeleton-shadow_death_4: -5817224394733443803
-      Greatsword Skeleton-shadow_death_5: 7203995367593167100
-      Greatsword Skeleton-shadow_death_6: -2493407699238754110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -219,10 +219,10 @@ TextureImporter:
       name: Skeleton Archer_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 440
-        width: 23
-        height: 23
+        x: 0
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: Skeleton Archer_1
       rect:
         serializedVersion: 2
-        x: 141
-        y: 440
-        width: 23
-        height: 23
+        x: 100
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: Skeleton Archer_2
       rect:
         serializedVersion: 2
-        x: 241
-        y: 441
-        width: 23
-        height: 23
+        x: 200
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +285,10 @@ TextureImporter:
       name: Skeleton Archer_3
       rect:
         serializedVersion: 2
-        x: 341
-        y: 441
-        width: 23
-        height: 23
+        x: 300
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,10 +307,10 @@ TextureImporter:
       name: Skeleton Archer_4
       rect:
         serializedVersion: 2
-        x: 441
-        y: 441
-        width: 23
-        height: 22
+        x: 400
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,10 +329,10 @@ TextureImporter:
       name: Skeleton Archer_5
       rect:
         serializedVersion: 2
-        x: 541
-        y: 441
-        width: 23
-        height: 22
+        x: 500
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,10 +351,10 @@ TextureImporter:
       name: Skeleton Archer_6
       rect:
         serializedVersion: 2
-        x: 41
-        y: 340
-        width: 23
-        height: 23
+        x: 0
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,10 +373,10 @@ TextureImporter:
       name: Skeleton Archer_7
       rect:
         serializedVersion: 2
-        x: 141
-        y: 341
-        width: 23
-        height: 23
+        x: 100
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,10 +395,10 @@ TextureImporter:
       name: Skeleton Archer_8
       rect:
         serializedVersion: 2
-        x: 241
-        y: 340
-        width: 23
-        height: 23
+        x: 200
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,10 +417,10 @@ TextureImporter:
       name: Skeleton Archer_9
       rect:
         serializedVersion: 2
-        x: 341
-        y: 339
-        width: 23
-        height: 23
+        x: 300
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,10 +439,10 @@ TextureImporter:
       name: Skeleton Archer_10
       rect:
         serializedVersion: 2
-        x: 441
-        y: 340
-        width: 23
-        height: 23
+        x: 400
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,10 +461,10 @@ TextureImporter:
       name: Skeleton Archer_11
       rect:
         serializedVersion: 2
-        x: 541
-        y: 342
-        width: 23
-        height: 22
+        x: 500
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,10 +483,10 @@ TextureImporter:
       name: Skeleton Archer_12
       rect:
         serializedVersion: 2
-        x: 641
-        y: 341
-        width: 23
-        height: 22
+        x: 600
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -505,10 +505,10 @@ TextureImporter:
       name: Skeleton Archer_13
       rect:
         serializedVersion: 2
-        x: 741
-        y: 339
-        width: 23
-        height: 23
+        x: 700
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,10 +527,10 @@ TextureImporter:
       name: Skeleton Archer_14
       rect:
         serializedVersion: 2
-        x: 41
-        y: 240
-        width: 21
-        height: 23
+        x: 0
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,10 +549,10 @@ TextureImporter:
       name: Skeleton Archer_15
       rect:
         serializedVersion: 2
-        x: 141
-        y: 240
-        width: 21
-        height: 23
+        x: 100
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,10 +571,10 @@ TextureImporter:
       name: Skeleton Archer_16
       rect:
         serializedVersion: 2
-        x: 241
-        y: 240
-        width: 21
-        height: 23
+        x: 200
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,10 +593,10 @@ TextureImporter:
       name: Skeleton Archer_17
       rect:
         serializedVersion: 2
-        x: 341
-        y: 240
-        width: 28
-        height: 23
+        x: 300
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,10 +615,10 @@ TextureImporter:
       name: Skeleton Archer_18
       rect:
         serializedVersion: 2
-        x: 441
-        y: 240
-        width: 25
-        height: 23
+        x: 400
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -637,10 +637,10 @@ TextureImporter:
       name: Skeleton Archer_19
       rect:
         serializedVersion: 2
-        x: 541
-        y: 241
-        width: 24
-        height: 21
+        x: 500
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: Skeleton Archer_20
       rect:
         serializedVersion: 2
-        x: 641
-        y: 241
-        width: 21
-        height: 21
+        x: 600
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -681,10 +681,10 @@ TextureImporter:
       name: Skeleton Archer_21
       rect:
         serializedVersion: 2
-        x: 741
-        y: 240
-        width: 21
-        height: 23
+        x: 700
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -703,10 +703,10 @@ TextureImporter:
       name: Skeleton Archer_22
       rect:
         serializedVersion: 2
-        x: 841
-        y: 240
-        width: 21
-        height: 23
+        x: 800
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -725,10 +725,10 @@ TextureImporter:
       name: Skeleton Archer_23
       rect:
         serializedVersion: 2
-        x: 40
-        y: 140
-        width: 23
-        height: 23
+        x: 0
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -747,10 +747,10 @@ TextureImporter:
       name: Skeleton Archer_24
       rect:
         serializedVersion: 2
-        x: 140
-        y: 140
-        width: 23
-        height: 23
+        x: 100
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,10 +769,10 @@ TextureImporter:
       name: Skeleton Archer_25
       rect:
         serializedVersion: 2
-        x: 240
-        y: 140
-        width: 23
-        height: 23
+        x: 200
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,10 +791,10 @@ TextureImporter:
       name: Skeleton Archer_26
       rect:
         serializedVersion: 2
-        x: 340
-        y: 140
-        width: 23
-        height: 23
+        x: 300
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -813,10 +813,10 @@ TextureImporter:
       name: Skeleton Archer_27
       rect:
         serializedVersion: 2
-        x: 41
-        y: 40
-        width: 23
-        height: 23
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -835,10 +835,10 @@ TextureImporter:
       name: Skeleton Archer_28
       rect:
         serializedVersion: 2
-        x: 142
-        y: 40
-        width: 26
-        height: 21
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -857,10 +857,10 @@ TextureImporter:
       name: Skeleton Archer_29
       rect:
         serializedVersion: 2
-        x: 243
-        y: 42
-        width: 19
-        height: 15
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -879,10 +879,10 @@ TextureImporter:
       name: Skeleton Archer_30
       rect:
         serializedVersion: 2
-        x: 343
-        y: 42
-        width: 19
-        height: 15
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -901,7 +901,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e75e526eaa254f408a52447e77d9813
     internalID: 0
     vertices: []
     indices: 

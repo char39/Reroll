@@ -141,10 +141,10 @@ TextureImporter:
       name: Armored Axeman-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 439
-        y: 38
-        width: 40
-        height: 20
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,10 +163,10 @@ TextureImporter:
       name: Armored Axeman-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 541
-        y: 36
-        width: 34
-        height: 25
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,10 +185,10 @@ TextureImporter:
       name: Armored Axeman-Attack02_Effect_2
       rect:
         serializedVersion: 2
-        x: 627
-        y: 40
-        width: 44
-        height: 15
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,10 +207,10 @@ TextureImporter:
       name: Armored Axeman-Attack02_Effect_3
       rect:
         serializedVersion: 2
-        x: 730
-        y: 41
-        width: 38
-        height: 18
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,10 +229,10 @@ TextureImporter:
       name: Armored Axeman-Attack02_Effect_4
       rect:
         serializedVersion: 2
-        x: 839
-        y: 38
-        width: 40
-        height: 20
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,11 +247,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Armored Axeman-Attack02_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b1e27175024b89940902fb94f9152
+      internalID: 2050163027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Axeman-Attack02_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16924f9e46bc04149af3d992b59a9f99
+      internalID: -1213197833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Axeman-Attack02_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d460ac4091427f88d8d3c37fca58e
+      internalID: -236037994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Axeman-Attack02_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5943dc4a269f44afac3bba98afbfbd6
+      internalID: -1164142806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e8059e52b17f64811a293467a2e6830d
     internalID: 0
     vertices: []
     indices: 
@@ -266,6 +354,10 @@ TextureImporter:
       Armored Axeman-Attack02_Effect_2: -8992690274450798267
       Armored Axeman-Attack02_Effect_3: -4471418061491387344
       Armored Axeman-Attack02_Effect_4: 940161590818760342
+      Armored Axeman-Attack02_Effect_5: 2050163027
+      Armored Axeman-Attack02_Effect_6: -1213197833
+      Armored Axeman-Attack02_Effect_7: -236037994
+      Armored Axeman-Attack02_Effect_8: -1164142806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

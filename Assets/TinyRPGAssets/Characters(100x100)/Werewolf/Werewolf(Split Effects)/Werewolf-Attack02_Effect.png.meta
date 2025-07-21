@@ -144,10 +144,10 @@ TextureImporter:
       name: Werewolf-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 763
-        y: 34
-        width: 15
-        height: 39
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: Werewolf-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 848
-        y: 34
-        width: 40
-        height: 20
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: Werewolf-Attack02_Effect_2
       rect:
         serializedVersion: 2
-        x: 966
-        y: 36
-        width: 22
-        height: 9
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: Werewolf-Attack02_Effect_3
       rect:
         serializedVersion: 2
-        x: 969
-        y: 44
-        width: 14
-        height: 19
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: Werewolf-Attack02_Effect_4
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 36
-        width: 16
-        height: 30
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: Werewolf-Attack02_Effect_5
       rect:
         serializedVersion: 2
-        x: 1145
-        y: 38
-        width: 43
-        height: 25
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,11 +272,165 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Werewolf-Attack02_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be04f6acb3fd4586bb26da00bd08bdb
+      internalID: -1137440250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf-Attack02_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634e4e2d5a6c4b33be65009baf23bd9
+      internalID: 1160542132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf-Attack02_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2552d4ec2ee451db8b73982d7b35e4
+      internalID: 141112880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf-Attack02_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba92bbd9439a4b9b97544a99e83ece3
+      internalID: 1755017224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf-Attack02_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c15784d1478d49b8a571efede3de4e3
+      internalID: -1114993652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf-Attack02_Effect_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c43e8ea2feb4bfa98bb09f9463dfb2
+      internalID: -1082423823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werewolf-Attack02_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eca766bec11451b99e2abf1d047967
+      internalID: 647392230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 109950d14bc354850b5e806547ade64f
     internalID: 0
     vertices: []
     indices: 
@@ -288,10 +442,17 @@ TextureImporter:
     nameFileIdTable:
       Werewolf-Attack02_Effect_0: -9035770308016058780
       Werewolf-Attack02_Effect_1: -1879108471161595983
+      Werewolf-Attack02_Effect_10: -1114993652
+      Werewolf-Attack02_Effect_11: -1082423823
+      Werewolf-Attack02_Effect_12: 647392230
       Werewolf-Attack02_Effect_2: 6103237264109461620
       Werewolf-Attack02_Effect_3: 1990879161925964082
       Werewolf-Attack02_Effect_4: -3192422925401740807
       Werewolf-Attack02_Effect_5: -2544695724155107221
+      Werewolf-Attack02_Effect_6: -1137440250
+      Werewolf-Attack02_Effect_7: 1160542132
+      Werewolf-Attack02_Effect_8: 141112880
+      Werewolf-Attack02_Effect_9: 1755017224
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

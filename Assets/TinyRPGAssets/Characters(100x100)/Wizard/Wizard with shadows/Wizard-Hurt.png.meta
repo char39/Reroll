@@ -138,10 +138,10 @@ TextureImporter:
       name: Wizard-Hurt_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 39
-        width: 19
-        height: 23
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Wizard-Hurt_1
       rect:
         serializedVersion: 2
-        x: 141
-        y: 39
-        width: 19
-        height: 23
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Wizard-Hurt_2
       rect:
         serializedVersion: 2
-        x: 241
-        y: 39
-        width: 19
-        height: 23
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Wizard-Hurt_3
       rect:
         serializedVersion: 2
-        x: 341
-        y: 39
-        width: 19
-        height: 23
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 02b34b07fe170410892857c63eddafe1
     internalID: 0
     vertices: []
     indices: 

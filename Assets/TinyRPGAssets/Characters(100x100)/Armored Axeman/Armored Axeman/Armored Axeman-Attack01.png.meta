@@ -153,10 +153,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 42
-        width: 21
-        height: 21
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_1
       rect:
         serializedVersion: 2
-        x: 135
-        y: 42
-        width: 22
-        height: 27
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_2
       rect:
         serializedVersion: 2
-        x: 235
-        y: 42
-        width: 22
-        height: 27
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_3
       rect:
         serializedVersion: 2
-        x: 334
-        y: 42
-        width: 22
-        height: 28
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_4
       rect:
         serializedVersion: 2
-        x: 435
-        y: 38
-        width: 43
-        height: 33
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_5
       rect:
         serializedVersion: 2
-        x: 545
-        y: 38
-        width: 30
-        height: 30
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +285,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_6
       rect:
         serializedVersion: 2
-        x: 645
-        y: 39
-        width: 29
-        height: 23
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,10 +307,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_7
       rect:
         serializedVersion: 2
-        x: 745
-        y: 39
-        width: 29
-        height: 23
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,10 +329,10 @@ TextureImporter:
       name: Armored Axeman-Attack01_8
       rect:
         serializedVersion: 2
-        x: 841
-        y: 39
-        width: 21
-        height: 23
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,7 +351,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7a2a7624980d74cdfa32ec2ae33ca256
     internalID: 0
     vertices: []
     indices: 

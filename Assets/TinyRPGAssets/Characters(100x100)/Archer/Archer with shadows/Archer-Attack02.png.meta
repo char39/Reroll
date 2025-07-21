@@ -165,10 +165,10 @@ TextureImporter:
       name: Archer-Attack02_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 39
-        width: 20
-        height: 22
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,10 +187,10 @@ TextureImporter:
       name: Archer-Attack02_1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 39
-        width: 20
-        height: 24
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,10 +209,10 @@ TextureImporter:
       name: Archer-Attack02_2
       rect:
         serializedVersion: 2
-        x: 239
-        y: 39
-        width: 20
-        height: 22
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +231,10 @@ TextureImporter:
       name: Archer-Attack02_3
       rect:
         serializedVersion: 2
-        x: 339
-        y: 39
-        width: 27
-        height: 22
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: Archer-Attack02_4
       rect:
         serializedVersion: 2
-        x: 436
-        y: 39
-        width: 30
-        height: 20
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: Archer-Attack02_5
       rect:
         serializedVersion: 2
-        x: 536
-        y: 39
-        width: 28
-        height: 20
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,10 +297,10 @@ TextureImporter:
       name: Archer-Attack02_6
       rect:
         serializedVersion: 2
-        x: 636
-        y: 39
-        width: 30
-        height: 20
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,10 +319,10 @@ TextureImporter:
       name: Archer-Attack02_7
       rect:
         serializedVersion: 2
-        x: 736
-        y: 39
-        width: 28
-        height: 20
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: Archer-Attack02_8
       rect:
         serializedVersion: 2
-        x: 836
-        y: 39
-        width: 26
-        height: 20
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,10 +363,10 @@ TextureImporter:
       name: Archer-Attack02_9
       rect:
         serializedVersion: 2
-        x: 936
-        y: 39
-        width: 57
-        height: 20
+        x: 900
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,10 +385,10 @@ TextureImporter:
       name: Archer-Attack02_10
       rect:
         serializedVersion: 2
-        x: 1036
-        y: 30
-        width: 65
-        height: 39
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: Archer-Attack02_11
       rect:
         serializedVersion: 2
-        x: 1136
-        y: 39
-        width: 23
-        height: 20
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,33 +425,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_12
-      rect:
-        serializedVersion: 2
-        x: 1161
-        y: 29
-        width: 24
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 442f9d589904260a0800000000000000
-      internalID: -6889873451803610556
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8ea49f9c1acbb46fe8db8b05bbdd3eee
     internalID: 0
     vertices: []
     indices: 
@@ -465,7 +443,6 @@ TextureImporter:
       Archer-Attack02_1: -3439938975914402308
       Archer-Attack02_10: 4165200713072231581
       Archer-Attack02_11: 4070616125632327949
-      Archer-Attack02_12: -6889873451803610556
       Archer-Attack02_2: -912804988329809371
       Archer-Attack02_3: 4043648015451174233
       Archer-Attack02_4: 3207939523946445512

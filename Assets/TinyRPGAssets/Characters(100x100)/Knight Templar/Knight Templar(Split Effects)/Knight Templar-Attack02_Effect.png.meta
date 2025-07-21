@@ -132,10 +132,10 @@ TextureImporter:
       name: Knight Templar-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 552
-        y: 36
-        width: 24
-        height: 29
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: Knight Templar-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 662
-        y: 36
-        width: 14
-        height: 26
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,11 +172,143 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Knight Templar-Attack02_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586d377260514a7d9b3e8825a4013b1
+      internalID: -1423792647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Templar-Attack02_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6dcd9318c024e1b97aa225bb0b47a4
+      internalID: -1147889425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Templar-Attack02_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35513efbccd784547a8145dbf5d0a107
+      internalID: -1149578649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Templar-Attack02_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eec824b2953499086d59a64908a361
+      internalID: -1833361746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Templar-Attack02_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88434b8fc8d6d4d24bbcb494278db3ae
+      internalID: 544451922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Templar-Attack02_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0879eebf7d74db99bdd6b4f26b6b21
+      internalID: -484485789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 253c894f961324f299f6a614e447de83
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +320,12 @@ TextureImporter:
     nameFileIdTable:
       Knight Templar-Attack02_Effect_0: -9062457753982506347
       Knight Templar-Attack02_Effect_1: 769640345311643337
+      Knight Templar-Attack02_Effect_2: -1423792647
+      Knight Templar-Attack02_Effect_3: -1147889425
+      Knight Templar-Attack02_Effect_4: -1149578649
+      Knight Templar-Attack02_Effect_5: -1833361746
+      Knight Templar-Attack02_Effect_6: 544451922
+      Knight Templar-Attack02_Effect_7: -484485789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

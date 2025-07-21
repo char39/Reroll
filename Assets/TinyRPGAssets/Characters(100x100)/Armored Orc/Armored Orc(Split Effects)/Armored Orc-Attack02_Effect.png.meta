@@ -132,10 +132,10 @@ TextureImporter:
       name: Armored Orc-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 553
-        y: 46
-        width: 26
-        height: 6
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: Armored Orc-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 656
-        y: 46
-        width: 124
-        height: 6
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,11 +172,143 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Armored Orc-Attack02_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e3913ed535149388108a850baa1aba
+      internalID: -775243921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Orc-Attack02_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc15858ca36434e94e9fcd3787d253
+      internalID: -2001221525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Orc-Attack02_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31838695ea9504973a1ddc40e2cfe8b9
+      internalID: 1684475840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Orc-Attack02_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6df7ff52cb4143952dec5fb7b444b
+      internalID: -1725420185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Orc-Attack02_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b75f4c998e234bb1ab62b3f95b69287
+      internalID: 863971544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armored Orc-Attack02_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735dcc8578d08442cb3e83e5567eaf56
+      internalID: -420043771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 50c06f491b1b841fc83b50df4ee747dd
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +320,12 @@ TextureImporter:
     nameFileIdTable:
       Armored Orc-Attack02_Effect_0: 1957835996047913748
       Armored Orc-Attack02_Effect_1: 8527706241909237806
+      Armored Orc-Attack02_Effect_2: -775243921
+      Armored Orc-Attack02_Effect_3: -2001221525
+      Armored Orc-Attack02_Effect_4: 1684475840
+      Armored Orc-Attack02_Effect_5: -1725420185
+      Armored Orc-Attack02_Effect_6: 863971544
+      Armored Orc-Attack02_Effect_7: -420043771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

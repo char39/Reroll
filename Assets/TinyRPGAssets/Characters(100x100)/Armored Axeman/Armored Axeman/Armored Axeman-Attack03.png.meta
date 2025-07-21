@@ -162,10 +162,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 42
-        width: 21
-        height: 21
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_1
       rect:
         serializedVersion: 2
-        x: 132
-        y: 39
-        width: 27
-        height: 22
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_2
       rect:
         serializedVersion: 2
-        x: 232
-        y: 39
-        width: 27
-        height: 22
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_3
       rect:
         serializedVersion: 2
-        x: 333
-        y: 38
-        width: 26
-        height: 23
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,10 +250,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_4
       rect:
         serializedVersion: 2
-        x: 436
-        y: 39
-        width: 39
-        height: 23
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_5
       rect:
         serializedVersion: 2
-        x: 535
-        y: 42
-        width: 31
-        height: 29
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_6
       rect:
         serializedVersion: 2
-        x: 635
-        y: 42
-        width: 22
-        height: 27
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_7
       rect:
         serializedVersion: 2
-        x: 735
-        y: 38
-        width: 43
-        height: 33
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_8
       rect:
         serializedVersion: 2
-        x: 845
-        y: 38
-        width: 41
-        height: 30
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_9
       rect:
         serializedVersion: 2
-        x: 945
-        y: 38
-        width: 49
-        height: 23
+        x: 900
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_10
       rect:
         serializedVersion: 2
-        x: 1045
-        y: 38
-        width: 52
-        height: 23
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: Armored Axeman-Attack03_11
       rect:
         serializedVersion: 2
-        x: 1145
-        y: 39
-        width: 29
-        height: 22
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,7 +426,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3610ef760f6e84bb0b43ed72d4c02b89
     internalID: 0
     vertices: []
     indices: 

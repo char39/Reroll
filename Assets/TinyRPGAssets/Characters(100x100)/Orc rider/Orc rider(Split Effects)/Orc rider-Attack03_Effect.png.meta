@@ -147,10 +147,10 @@ TextureImporter:
       name: Orc rider-Attack03_Effect_0
       rect:
         serializedVersion: 2
-        x: 341
-        y: 71
-        width: 29
-        height: 13
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: Orc rider-Attack03_Effect_1
       rect:
         serializedVersion: 2
-        x: 568
-        y: 48
-        width: 27
-        height: 23
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: Orc rider-Attack03_Effect_2
       rect:
         serializedVersion: 2
-        x: 968
-        y: 48
-        width: 27
-        height: 23
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: Orc rider-Attack03_Effect_3
       rect:
         serializedVersion: 2
-        x: 608
-        y: 44
-        width: 87
-        height: 23
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: Orc rider-Attack03_Effect_4
       rect:
         serializedVersion: 2
-        x: 708
-        y: 49
-        width: 24
-        height: 20
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: Orc rider-Attack03_Effect_5
       rect:
         serializedVersion: 2
-        x: 811
-        y: 57
-        width: 34
-        height: 13
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: Orc rider-Attack03_Effect_6
       rect:
         serializedVersion: 2
-        x: 846
-        y: 64
-        width: 25
-        height: 6
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,11 +297,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Orc rider-Attack03_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f386f93ed874cedb710828dcac9435
+      internalID: -2113765049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc rider-Attack03_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aec84ac2e5b4470854764b2feeb082
+      internalID: 737229380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc rider-Attack03_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430cca5ad93746e3bb65059b626d42a
+      internalID: -1201316015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc rider-Attack03_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6bb8cee8990405fa1a00e62794c6dd
+      internalID: 1517042187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 149b2b29b7a3f4977a546e59334a428d
     internalID: 0
     vertices: []
     indices: 
@@ -313,11 +401,15 @@ TextureImporter:
     nameFileIdTable:
       Orc rider-Attack03_Effect_0: -8183893360560221331
       Orc rider-Attack03_Effect_1: 975634201051247158
+      Orc rider-Attack03_Effect_10: 1517042187
       Orc rider-Attack03_Effect_2: -8891431625275508289
       Orc rider-Attack03_Effect_3: -4677087159207218387
       Orc rider-Attack03_Effect_4: 453433752809908893
       Orc rider-Attack03_Effect_5: 1527360234304331240
       Orc rider-Attack03_Effect_6: -4318694671449767240
+      Orc rider-Attack03_Effect_7: -2113765049
+      Orc rider-Attack03_Effect_8: 737229380
+      Orc rider-Attack03_Effect_9: -1201316015
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

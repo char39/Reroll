@@ -132,10 +132,10 @@ TextureImporter:
       name: Swordsman-Attack01_Effect_0
       rect:
         serializedVersion: 2
-        x: 339
-        y: 39
-        width: 42
-        height: 18
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: Swordsman-Attack01_Effect_1
       rect:
         serializedVersion: 2
-        x: 439
-        y: 39
-        width: 42
-        height: 15
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,11 +172,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Swordsman-Attack01_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a19622d9924454a90c2ae96938bb4
+      internalID: -1321851124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman-Attack01_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533f4e44d6b2a4990a48dd8a511e0106
+      internalID: -356798583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman-Attack01_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd828d2461fbb4459b38528644ed9fe5
+      internalID: -48522410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman-Attack01_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2e8335a70d44d8eb5d4a3e097c6dc1
+      internalID: 1399824758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman-Attack01_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c5532a7776408faebd88323b7cf6d
+      internalID: -1772998990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9a9299972fe524f6fb5960a8b4bd27d5
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +298,11 @@ TextureImporter:
     nameFileIdTable:
       Swordsman-Attack01_Effect_0: 2135751024346891920
       Swordsman-Attack01_Effect_1: 586596539011358885
+      Swordsman-Attack01_Effect_2: -1321851124
+      Swordsman-Attack01_Effect_3: -356798583
+      Swordsman-Attack01_Effect_4: -48522410
+      Swordsman-Attack01_Effect_5: 1399824758
+      Swordsman-Attack01_Effect_6: -1772998990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -138,10 +138,10 @@ TextureImporter:
       name: Lancer-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 271
-        y: 44
-        width: 20
-        height: 23
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Lancer-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 344
-        y: 43
-        width: 43
-        height: 29
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Lancer-Attack02_Effect_2
       rect:
         serializedVersion: 2
-        x: 456
-        y: 44
-        width: 31
-        height: 24
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Lancer-Attack02_Effect_3
       rect:
         serializedVersion: 2
-        x: 556
-        y: 46
-        width: 131
-        height: 19
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,11 +222,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack02_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8550ca5d54a476cbb4dda4ecd8ee11
+      internalID: -1730179082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack02_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181484016ccf94e228dda13e52864b41
+      internalID: 534006092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack02_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564e8bd203454ee3acabb838289d212
+      internalID: -906667769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack02_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22789245e742e43708a9310b62c8053f
+      internalID: 1206725570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack02_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4996b74bbbd45b5bcb34d9f1830adc
+      internalID: 837850457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e631cd2d3bbf9465d87f6654c2c6b334
     internalID: 0
     vertices: []
     indices: 
@@ -240,6 +350,11 @@ TextureImporter:
       Lancer-Attack02_Effect_1: 221092405631414335
       Lancer-Attack02_Effect_2: 7294753378183727124
       Lancer-Attack02_Effect_3: -1536563076465697665
+      Lancer-Attack02_Effect_4: -1730179082
+      Lancer-Attack02_Effect_5: 534006092
+      Lancer-Attack02_Effect_6: -906667769
+      Lancer-Attack02_Effect_7: 1206725570
+      Lancer-Attack02_Effect_8: 837850457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

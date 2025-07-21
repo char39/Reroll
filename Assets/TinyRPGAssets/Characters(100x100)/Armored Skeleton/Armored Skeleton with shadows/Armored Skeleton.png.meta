@@ -288,10 +288,10 @@ TextureImporter:
       name: Armored Skeleton_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 539
-        width: 23
-        height: 27
+        x: 0
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: Armored Skeleton_1
       rect:
         serializedVersion: 2
-        x: 142
-        y: 539
-        width: 23
-        height: 27
+        x: 100
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,10 +332,10 @@ TextureImporter:
       name: Armored Skeleton_2
       rect:
         serializedVersion: 2
-        x: 242
-        y: 539
-        width: 23
-        height: 28
+        x: 200
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,10 +354,10 @@ TextureImporter:
       name: Armored Skeleton_3
       rect:
         serializedVersion: 2
-        x: 342
-        y: 539
-        width: 23
-        height: 28
+        x: 300
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,10 +376,10 @@ TextureImporter:
       name: Armored Skeleton_4
       rect:
         serializedVersion: 2
-        x: 442
-        y: 539
-        width: 23
-        height: 28
+        x: 400
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,10 +398,10 @@ TextureImporter:
       name: Armored Skeleton_5
       rect:
         serializedVersion: 2
-        x: 542
-        y: 539
-        width: 23
-        height: 28
+        x: 500
+        y: 500
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,10 +420,10 @@ TextureImporter:
       name: Armored Skeleton_6
       rect:
         serializedVersion: 2
-        x: 42
-        y: 439
-        width: 23
-        height: 27
+        x: 0
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,10 +442,10 @@ TextureImporter:
       name: Armored Skeleton_7
       rect:
         serializedVersion: 2
-        x: 142
-        y: 439
-        width: 23
-        height: 28
+        x: 100
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,10 +464,10 @@ TextureImporter:
       name: Armored Skeleton_8
       rect:
         serializedVersion: 2
-        x: 242
-        y: 439
-        width: 23
-        height: 27
+        x: 200
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,10 +486,10 @@ TextureImporter:
       name: Armored Skeleton_9
       rect:
         serializedVersion: 2
-        x: 342
-        y: 439
-        width: 23
-        height: 26
+        x: 300
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,10 +508,10 @@ TextureImporter:
       name: Armored Skeleton_10
       rect:
         serializedVersion: 2
-        x: 442
-        y: 439
-        width: 23
-        height: 27
+        x: 400
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,10 +530,10 @@ TextureImporter:
       name: Armored Skeleton_11
       rect:
         serializedVersion: 2
-        x: 542
-        y: 439
-        width: 23
-        height: 29
+        x: 500
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,10 +552,10 @@ TextureImporter:
       name: Armored Skeleton_12
       rect:
         serializedVersion: 2
-        x: 642
-        y: 439
-        width: 23
-        height: 28
+        x: 600
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,10 +574,10 @@ TextureImporter:
       name: Armored Skeleton_13
       rect:
         serializedVersion: 2
-        x: 742
-        y: 439
-        width: 23
-        height: 26
+        x: 700
+        y: 400
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: Armored Skeleton_14
       rect:
         serializedVersion: 2
-        x: 42
-        y: 339
-        width: 23
-        height: 27
+        x: 0
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,10 +618,10 @@ TextureImporter:
       name: Armored Skeleton_15
       rect:
         serializedVersion: 2
-        x: 142
-        y: 338
-        width: 25
-        height: 25
+        x: 100
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -640,10 +640,10 @@ TextureImporter:
       name: Armored Skeleton_16
       rect:
         serializedVersion: 2
-        x: 242
-        y: 339
-        width: 29
-        height: 23
+        x: 200
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -662,10 +662,10 @@ TextureImporter:
       name: Armored Skeleton_17
       rect:
         serializedVersion: 2
-        x: 338
-        y: 339
-        width: 29
-        height: 23
+        x: 300
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -684,10 +684,10 @@ TextureImporter:
       name: Armored Skeleton_18
       rect:
         serializedVersion: 2
-        x: 442
-        y: 339
-        width: 44
-        height: 23
+        x: 400
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,10 +706,10 @@ TextureImporter:
       name: Armored Skeleton_19
       rect:
         serializedVersion: 2
-        x: 542
-        y: 338
-        width: 41
-        height: 24
+        x: 500
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,10 +728,10 @@ TextureImporter:
       name: Armored Skeleton_20
       rect:
         serializedVersion: 2
-        x: 642
-        y: 339
-        width: 35
-        height: 23
+        x: 600
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,10 +750,10 @@ TextureImporter:
       name: Armored Skeleton_21
       rect:
         serializedVersion: 2
-        x: 742
-        y: 339
-        width: 35
-        height: 23
+        x: 700
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -772,10 +772,10 @@ TextureImporter:
       name: Armored Skeleton_22
       rect:
         serializedVersion: 2
-        x: 42
-        y: 239
-        width: 23
-        height: 27
+        x: 0
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -794,10 +794,10 @@ TextureImporter:
       name: Armored Skeleton_23
       rect:
         serializedVersion: 2
-        x: 139
-        y: 239
-        width: 22
-        height: 29
+        x: 100
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -816,10 +816,10 @@ TextureImporter:
       name: Armored Skeleton_24
       rect:
         serializedVersion: 2
-        x: 238
-        y: 235
-        width: 35
-        height: 32
+        x: 200
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,10 +838,10 @@ TextureImporter:
       name: Armored Skeleton_25
       rect:
         serializedVersion: 2
-        x: 338
-        y: 234
-        width: 33
-        height: 28
+        x: 300
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -860,10 +860,10 @@ TextureImporter:
       name: Armored Skeleton_26
       rect:
         serializedVersion: 2
-        x: 341
-        y: 261
-        width: 8
-        height: 7
+        x: 400
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -882,10 +882,10 @@ TextureImporter:
       name: Armored Skeleton_27
       rect:
         serializedVersion: 2
-        x: 438
-        y: 232
-        width: 25
-        height: 30
+        x: 500
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -904,10 +904,10 @@ TextureImporter:
       name: Armored Skeleton_28
       rect:
         serializedVersion: 2
-        x: 461
-        y: 260
-        width: 11
-        height: 9
+        x: 600
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -926,10 +926,10 @@ TextureImporter:
       name: Armored Skeleton_29
       rect:
         serializedVersion: 2
-        x: 468
-        y: 253
-        width: 7
-        height: 8
+        x: 700
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -948,10 +948,10 @@ TextureImporter:
       name: Armored Skeleton_30
       rect:
         serializedVersion: 2
-        x: 539
-        y: 239
-        width: 22
-        height: 29
+        x: 800
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -970,10 +970,10 @@ TextureImporter:
       name: Armored Skeleton_31
       rect:
         serializedVersion: 2
-        x: 638
-        y: 235
-        width: 35
-        height: 32
+        x: 0
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -992,10 +992,10 @@ TextureImporter:
       name: Armored Skeleton_32
       rect:
         serializedVersion: 2
-        x: 738
-        y: 234
-        width: 33
-        height: 28
+        x: 100
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,10 +1014,10 @@ TextureImporter:
       name: Armored Skeleton_33
       rect:
         serializedVersion: 2
-        x: 741
-        y: 261
-        width: 8
-        height: 7
+        x: 200
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1036,10 +1036,10 @@ TextureImporter:
       name: Armored Skeleton_34
       rect:
         serializedVersion: 2
-        x: 838
-        y: 232
-        width: 25
-        height: 30
+        x: 300
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,10 +1058,10 @@ TextureImporter:
       name: Armored Skeleton_35
       rect:
         serializedVersion: 2
-        x: 861
-        y: 260
-        width: 11
-        height: 9
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1080,10 +1080,10 @@ TextureImporter:
       name: Armored Skeleton_36
       rect:
         serializedVersion: 2
-        x: 868
-        y: 253
-        width: 7
-        height: 8
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1102,10 +1102,10 @@ TextureImporter:
       name: Armored Skeleton_37
       rect:
         serializedVersion: 2
-        x: 160
-        y: 237
-        width: 8
-        height: 8
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1124,10 +1124,10 @@ TextureImporter:
       name: Armored Skeleton_38
       rect:
         serializedVersion: 2
-        x: 165
-        y: 243
-        width: 7
-        height: 12
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1142,341 +1142,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_39
-      rect:
-        serializedVersion: 2
-        x: 235
-        y: 243
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3ef4526b56a92970800000000000000
-      internalID: 8730692264056389178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_40
-      rect:
-        serializedVersion: 2
-        x: 560
-        y: 237
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a80bd17f637f38580800000000000000
-      internalID: -8825939029269827446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_41
-      rect:
-        serializedVersion: 2
-        x: 565
-        y: 243
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 20aa2c2a485f98710800000000000000
-      internalID: 1696156684696857090
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_42
-      rect:
-        serializedVersion: 2
-        x: 635
-        y: 243
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c676c763856b6b270800000000000000
-      internalID: 8265994656072623980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_43
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 139
-        width: 21
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93f5e733f225f2060800000000000000
-      internalID: 6930848714227343161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_44
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 139
-        width: 21
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8fe84ca33ceff93a0800000000000000
-      internalID: -6656321609772265736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_45
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 139
-        width: 21
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4782a704beabb7a0800000000000000
-      internalID: -6360297960485255346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_46
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 139
-        width: 21
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d736ba94e3964930800000000000000
-      internalID: 4127148718589097941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_47
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 39
-        width: 23
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2602606a85bea73b0800000000000000
-      internalID: -5513836027786682270
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_48
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 39
-        width: 22
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4f04911152af8dc0800000000000000
-      internalID: -3634507905193734324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_49
-      rect:
-        serializedVersion: 2
-        x: 163
-        y: 52
-        width: 10
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c827199f85ff93b0800000000000000
-      internalID: -5503410222525896505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_50
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 39
-        width: 21
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02017a9619d6c9120800000000000000
-      internalID: 2421931170928726048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_51
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 40
-        width: 12
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5f06e5d7d4a5cdd0800000000000000
-      internalID: -2466383974001930403
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_52
-      rect:
-        serializedVersion: 2
-        x: 342
-        y: 39
-        width: 21
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21617c04ad28e1c80800000000000000
-      internalID: -8350092785197050350
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton_53
-      rect:
-        serializedVersion: 2
-        x: 364
-        y: 40
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95075ab941d1f6e00800000000000000
-      internalID: 1040082013293736025
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 50463a44036764fe2a775db058b3fe20
     internalID: 0
     vertices: []
     indices: 
@@ -1519,23 +1189,8 @@ TextureImporter:
       Armored Skeleton_36: 2872605647768608535
       Armored Skeleton_37: 1842374674525765122
       Armored Skeleton_38: -7535953404216727305
-      Armored Skeleton_39: 8730692264056389178
       Armored Skeleton_4: -6145594432980523987
-      Armored Skeleton_40: -8825939029269827446
-      Armored Skeleton_41: 1696156684696857090
-      Armored Skeleton_42: 8265994656072623980
-      Armored Skeleton_43: 6930848714227343161
-      Armored Skeleton_44: -6656321609772265736
-      Armored Skeleton_45: -6360297960485255346
-      Armored Skeleton_46: 4127148718589097941
-      Armored Skeleton_47: -5513836027786682270
-      Armored Skeleton_48: -3634507905193734324
-      Armored Skeleton_49: -5503410222525896505
       Armored Skeleton_5: -2218112214932933699
-      Armored Skeleton_50: 2421931170928726048
-      Armored Skeleton_51: -2466383974001930403
-      Armored Skeleton_52: -8350092785197050350
-      Armored Skeleton_53: 1040082013293736025
       Armored Skeleton_6: 2572996886857676669
       Armored Skeleton_7: 5244253353791936019
       Armored Skeleton_8: -8636842209683401061

@@ -144,10 +144,10 @@ TextureImporter:
       name: Armored Orc-Death_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 42
-        width: 27
-        height: 21
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: Armored Orc-Death_1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 43
-        width: 17
-        height: 22
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: Armored Orc-Death_2
       rect:
         serializedVersion: 2
-        x: 156
-        y: 47
-        width: 13
-        height: 13
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: Armored Orc-Death_3
       rect:
         serializedVersion: 2
-        x: 228
-        y: 44
-        width: 42
-        height: 18
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,55 +228,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Armored Orc-Death_4
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 42
-        width: 27
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4958527fea76b9450800000000000000
-      internalID: 6096580521744500116
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Orc-Death_5
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 42
-        width: 17
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f8f43473c026c2da0800000000000000
-      internalID: -5968287601566462065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9ffc59bc3ef864a66bb686d087be6200
     internalID: 0
     vertices: []
     indices: 
@@ -290,8 +246,6 @@ TextureImporter:
       Armored Orc-Death_1: -2760844928591284473
       Armored Orc-Death_2: -1181119853533457312
       Armored Orc-Death_3: 4372999178664984343
-      Armored Orc-Death_4: 6096580521744500116
-      Armored Orc-Death_5: -5968287601566462065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

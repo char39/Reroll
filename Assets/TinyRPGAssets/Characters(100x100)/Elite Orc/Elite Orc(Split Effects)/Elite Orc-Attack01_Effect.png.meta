@@ -132,10 +132,10 @@ TextureImporter:
       name: Elite Orc-Attack01_Effect_0
       rect:
         serializedVersion: 2
-        x: 340
-        y: 34
-        width: 42
-        height: 23
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: Elite Orc-Attack01_Effect_1
       rect:
         serializedVersion: 2
-        x: 440
-        y: 34
-        width: 37
-        height: 14
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,11 +172,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Elite Orc-Attack01_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8508cba063b774655b3e6a9f9e2dcb00
+      internalID: 1470656782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Orc-Attack01_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953bc2ae02c643af82f715ef0a9ff81
+      internalID: 282501975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Orc-Attack01_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b77e3e459cc4021b6ca437e1b536d1
+      internalID: -1405045151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Orc-Attack01_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9168781c64b4a63821eb86af72eeaa
+      internalID: -2071484412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Orc-Attack01_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8f153e753fc479b9e31b637a77497a
+      internalID: -38914895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5f078124a7c894a508668e352a3fd7c8
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +298,11 @@ TextureImporter:
     nameFileIdTable:
       Elite Orc-Attack01_Effect_0: 1682858422247426414
       Elite Orc-Attack01_Effect_1: -6230980672640099670
+      Elite Orc-Attack01_Effect_2: 1470656782
+      Elite Orc-Attack01_Effect_3: 282501975
+      Elite Orc-Attack01_Effect_4: -1405045151
+      Elite Orc-Attack01_Effect_5: -2071484412
+      Elite Orc-Attack01_Effect_6: -38914895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

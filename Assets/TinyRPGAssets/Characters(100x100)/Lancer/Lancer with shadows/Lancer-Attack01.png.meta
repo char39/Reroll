@@ -144,10 +144,10 @@ TextureImporter:
       name: Lancer-Attack01_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 39
-        width: 51
-        height: 34
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: Lancer-Attack01_1
       rect:
         serializedVersion: 2
-        x: 132
-        y: 39
-        width: 49
-        height: 34
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: Lancer-Attack01_2
       rect:
         serializedVersion: 2
-        x: 232
-        y: 39
-        width: 48
-        height: 33
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: Lancer-Attack01_3
       rect:
         serializedVersion: 2
-        x: 332
-        y: 39
-        width: 59
-        height: 34
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: Lancer-Attack01_4
       rect:
         serializedVersion: 2
-        x: 432
-        y: 39
-        width: 57
-        height: 34
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: Lancer-Attack01_5
       rect:
         serializedVersion: 2
-        x: 532
-        y: 39
-        width: 55
-        height: 34
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 63111f95a651c4a3dad9ebc94fdc5d56
     internalID: 0
     vertices: []
     indices: 

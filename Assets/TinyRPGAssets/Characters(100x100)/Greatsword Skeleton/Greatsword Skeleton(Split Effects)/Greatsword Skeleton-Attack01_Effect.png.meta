@@ -132,10 +132,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack01_Effect_0
       rect:
         serializedVersion: 2
-        x: 563
-        y: 36
-        width: 28
-        height: 24
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack01_Effect_1
       rect:
         serializedVersion: 2
-        x: 668
-        y: 47
-        width: 21
-        height: 13
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,11 +172,165 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Greatsword Skeleton-Attack01_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdea5c80752124a3c8f5abaca048f7c9
+      internalID: 2089313374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greatsword Skeleton-Attack01_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2b0212a43e440aa8426c46318882a
+      internalID: -1175753828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greatsword Skeleton-Attack01_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def8ceaad21974bdfaac502178804620
+      internalID: -1485782856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greatsword Skeleton-Attack01_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c03b26e569324f0fa0b835b62c08c46
+      internalID: -17829274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greatsword Skeleton-Attack01_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca55d1e928fb43f9a75050e09565f13
+      internalID: 974719939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greatsword Skeleton-Attack01_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce437012b424cc9a9530c0c73b9f39
+      internalID: 1852270679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greatsword Skeleton-Attack01_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6251f69bb60d47958227c05b1dfa55b
+      internalID: -630111914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 487f4abd543dd4404af622affd64258a
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +342,13 @@ TextureImporter:
     nameFileIdTable:
       Greatsword Skeleton-Attack01_Effect_0: 8063658267984395209
       Greatsword Skeleton-Attack01_Effect_1: 1016049538631423477
+      Greatsword Skeleton-Attack01_Effect_2: 2089313374
+      Greatsword Skeleton-Attack01_Effect_3: -1175753828
+      Greatsword Skeleton-Attack01_Effect_4: -1485782856
+      Greatsword Skeleton-Attack01_Effect_5: -17829274
+      Greatsword Skeleton-Attack01_Effect_6: 974719939
+      Greatsword Skeleton-Attack01_Effect_7: 1852270679
+      Greatsword Skeleton-Attack01_Effect_8: -630111914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

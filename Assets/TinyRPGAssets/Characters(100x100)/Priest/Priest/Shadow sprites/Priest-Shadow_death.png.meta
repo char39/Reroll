@@ -138,10 +138,10 @@ TextureImporter:
       name: Priest-Shadow_death_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 39
-        width: 17
-        height: 7
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Priest-Shadow_death_1
       rect:
         serializedVersion: 2
-        x: 142
-        y: 39
-        width: 17
-        height: 7
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Priest-Shadow_death_2
       rect:
         serializedVersion: 2
-        x: 242
-        y: 39
-        width: 22
-        height: 7
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Priest-Shadow_death_3
       rect:
         serializedVersion: 2
-        x: 342
-        y: 39
-        width: 26
-        height: 7
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 541f6d0e2cb8640d4aa2a869c5f61f5b
     internalID: 0
     vertices: []
     indices: 

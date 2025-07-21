@@ -129,10 +129,10 @@ TextureImporter:
       name: Slime-Shadow_0
       rect:
         serializedVersion: 2
-        x: 38
-        y: 39
-        width: 21
-        height: 7
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fd6c7a9bb6faf437196869ccabe0cbf1
     internalID: 0
     vertices: []
     indices: 

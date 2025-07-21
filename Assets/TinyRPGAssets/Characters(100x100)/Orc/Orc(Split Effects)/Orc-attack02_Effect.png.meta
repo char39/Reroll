@@ -132,10 +132,10 @@ TextureImporter:
       name: Orc-attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 352
-        y: 33
-        width: 23
-        height: 32
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,10 +154,10 @@ TextureImporter:
       name: Orc-attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 452
-        y: 33
-        width: 16
-        height: 16
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,11 +172,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Orc-attack02_Effect_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00706b1be2204dcfa28ce50fa711e8e
+      internalID: -952620336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc-attack02_Effect_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba1ad58aefb74efeb616fd3d0695ec2
+      internalID: -1913473120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc-attack02_Effect_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49084782f02d45a2b926a2e1f186830
+      internalID: -480439944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc-attack02_Effect_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595213ab7ac5c43659e4b174ee2edfbc
+      internalID: 1804401601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dbc33a18d7512465d98c39460190aeb0
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +276,10 @@ TextureImporter:
     nameFileIdTable:
       Orc-attack02_Effect_0: -7593954805504680956
       Orc-attack02_Effect_1: -2671378827300738900
+      Orc-attack02_Effect_2: -952620336
+      Orc-attack02_Effect_3: -1913473120
+      Orc-attack02_Effect_4: -480439944
+      Orc-attack02_Effect_5: 1804401601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -138,10 +138,10 @@ TextureImporter:
       name: Knight Templar-Death_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 39
-        width: 29
-        height: 22
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Knight Templar-Death_1
       rect:
         serializedVersion: 2
-        x: 141
-        y: 39
-        width: 25
-        height: 23
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Knight Templar-Death_2
       rect:
         serializedVersion: 2
-        x: 241
-        y: 39
-        width: 22
-        height: 20
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Knight Templar-Death_3
       rect:
         serializedVersion: 2
-        x: 341
-        y: 39
-        width: 21
-        height: 19
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 135ec24de87ec4ab5bda8f95b8d8cc4a
     internalID: 0
     vertices: []
     indices: 

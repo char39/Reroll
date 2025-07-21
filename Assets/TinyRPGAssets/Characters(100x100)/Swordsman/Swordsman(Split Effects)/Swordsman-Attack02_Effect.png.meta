@@ -168,10 +168,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 356
-        y: 38
-        width: 32
-        height: 32
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,10 +190,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 471
-        y: 59
-        width: 7
-        height: 11
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,10 +212,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_2
       rect:
         serializedVersion: 2
-        x: 870
-        y: 37
-        width: 21
-        height: 22
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,10 +234,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_3
       rect:
         serializedVersion: 2
-        x: 1257
-        y: 37
-        width: 39
-        height: 30
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,10 +256,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_4
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 54
-        width: 6
-        height: 6
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,10 +278,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_5
       rect:
         serializedVersion: 2
-        x: 1385
-        y: 56
-        width: 6
-        height: 6
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,10 +300,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_6
       rect:
         serializedVersion: 2
-        x: 476
-        y: 50
-        width: 8
-        height: 8
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,10 +322,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_7
       rect:
         serializedVersion: 2
-        x: 655
-        y: 39
-        width: 26
-        height: 18
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_8
       rect:
         serializedVersion: 2
-        x: 669
-        y: 37
-        width: 21
-        height: 20
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -366,10 +366,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_9
       rect:
         serializedVersion: 2
-        x: 739
-        y: 38
-        width: 42
-        height: 19
+        x: 900
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -388,10 +388,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_10
       rect:
         serializedVersion: 2
-        x: 776
-        y: 43
-        width: 9
-        height: 9
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,10 +410,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_11
       rect:
         serializedVersion: 2
-        x: 784
-        y: 52
-        width: 6
-        height: 6
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,10 +432,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_12
       rect:
         serializedVersion: 2
-        x: 1358
-        y: 40
-        width: 32
-        height: 16
+        x: 1200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,10 +454,10 @@ TextureImporter:
       name: Swordsman-Attack02_Effect_13
       rect:
         serializedVersion: 2
-        x: 481
-        y: 40
-        width: 6
-        height: 9
+        x: 1300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,11 +472,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Swordsman-Attack02_Effect_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766acd71e13da4e5b9bedfec58eae008
+      internalID: -1924121161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 762087fdb9c4c4c0c9e926a4a120e9b1
     internalID: 0
     vertices: []
     indices: 
@@ -492,6 +514,7 @@ TextureImporter:
       Swordsman-Attack02_Effect_11: 7864548219028853915
       Swordsman-Attack02_Effect_12: -6440986910307770007
       Swordsman-Attack02_Effect_13: -5672861574751342596
+      Swordsman-Attack02_Effect_14: -1924121161
       Swordsman-Attack02_Effect_2: -2602799957417535102
       Swordsman-Attack02_Effect_3: -1917791813217035214
       Swordsman-Attack02_Effect_4: -1063731062000818120

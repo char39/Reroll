@@ -138,10 +138,10 @@ TextureImporter:
       name: Orc-shadow_death_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 39
-        width: 17
-        height: 7
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Orc-shadow_death_1
       rect:
         serializedVersion: 2
-        x: 141
-        y: 39
-        width: 15
-        height: 7
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Orc-shadow_death_2
       rect:
         serializedVersion: 2
-        x: 238
-        y: 39
-        width: 27
-        height: 7
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Orc-shadow_death_3
       rect:
         serializedVersion: 2
-        x: 335
-        y: 39
-        width: 30
-        height: 7
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d7ff43af279bc4f978ff15e8648565f0
     internalID: 0
     vertices: []
     indices: 

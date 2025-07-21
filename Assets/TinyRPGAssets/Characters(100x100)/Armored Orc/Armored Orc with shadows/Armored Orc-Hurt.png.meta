@@ -138,10 +138,10 @@ TextureImporter:
       name: Armored Orc-Hurt_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 39
-        width: 28
-        height: 24
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Armored Orc-Hurt_1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 39
-        width: 28
-        height: 24
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Armored Orc-Hurt_2
       rect:
         serializedVersion: 2
-        x: 239
-        y: 39
-        width: 28
-        height: 24
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Armored Orc-Hurt_3
       rect:
         serializedVersion: 2
-        x: 339
-        y: 39
-        width: 28
-        height: 24
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a736b71784a5d4db9b7d01de9eabb6a6
     internalID: 0
     vertices: []
     indices: 

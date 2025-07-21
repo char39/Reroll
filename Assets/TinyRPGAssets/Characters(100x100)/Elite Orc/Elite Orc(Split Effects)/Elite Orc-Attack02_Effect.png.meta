@@ -153,10 +153,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 160
-        y: 41
-        width: 22
-        height: 19
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 222
-        y: 40
-        width: 54
-        height: 15
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_2
       rect:
         serializedVersion: 2
-        x: 322
-        y: 40
-        width: 47
-        height: 16
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_3
       rect:
         serializedVersion: 2
-        x: 432
-        y: 48
-        width: 47
-        height: 16
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_4
       rect:
         serializedVersion: 2
-        x: 560
-        y: 41
-        width: 22
-        height: 19
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_5
       rect:
         serializedVersion: 2
-        x: 622
-        y: 40
-        width: 54
-        height: 15
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +285,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_6
       rect:
         serializedVersion: 2
-        x: 722
-        y: 40
-        width: 47
-        height: 16
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,10 +307,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_7
       rect:
         serializedVersion: 2
-        x: 832
-        y: 48
-        width: 47
-        height: 16
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,10 +329,10 @@ TextureImporter:
       name: Elite Orc-Attack02_Effect_8
       rect:
         serializedVersion: 2
-        x: 960
-        y: 41
-        width: 22
-        height: 19
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,11 +347,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Elite Orc-Attack02_Effect_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0267a86462249c2b216b3e442a95d1
+      internalID: 1482794679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elite Orc-Attack02_Effect_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0aa9988d9040c3a47993f7ef611f5
+      internalID: -1400060378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 37ec047e14476440292caeaf463be53c
     internalID: 0
     vertices: []
     indices: 
@@ -363,6 +407,7 @@ TextureImporter:
     nameFileIdTable:
       Elite Orc-Attack02_Effect_0: 2947053362363159479
       Elite Orc-Attack02_Effect_1: 4820357916130311042
+      Elite Orc-Attack02_Effect_10: -1400060378
       Elite Orc-Attack02_Effect_2: -4996424309007032040
       Elite Orc-Attack02_Effect_3: 2205372992257045640
       Elite Orc-Attack02_Effect_4: -6699094853010116170
@@ -370,6 +415,7 @@ TextureImporter:
       Elite Orc-Attack02_Effect_6: -7492581065850862757
       Elite Orc-Attack02_Effect_7: 2021176254273396520
       Elite Orc-Attack02_Effect_8: -3758022285539605211
+      Elite Orc-Attack02_Effect_9: 1482794679
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

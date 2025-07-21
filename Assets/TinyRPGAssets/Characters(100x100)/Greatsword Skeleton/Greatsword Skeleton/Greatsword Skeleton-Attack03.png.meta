@@ -150,10 +150,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 42
-        width: 24
-        height: 21
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,10 +172,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_1
       rect:
         serializedVersion: 2
-        x: 145
-        y: 41
-        width: 26
-        height: 21
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,10 +194,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_2
       rect:
         serializedVersion: 2
-        x: 244
-        y: 41
-        width: 26
-        height: 21
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,10 +216,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_3
       rect:
         serializedVersion: 2
-        x: 344
-        y: 42
-        width: 24
-        height: 20
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -238,10 +238,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_4
       rect:
         serializedVersion: 2
-        x: 445
-        y: 42
-        width: 43
-        height: 20
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_5
       rect:
         serializedVersion: 2
-        x: 545
-        y: 38
-        width: 36
-        height: 24
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -282,10 +282,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_6
       rect:
         serializedVersion: 2
-        x: 645
-        y: 36
-        width: 32
-        height: 26
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +304,10 @@ TextureImporter:
       name: Greatsword Skeleton-Attack03_7
       rect:
         serializedVersion: 2
-        x: 745
-        y: 42
-        width: 24
-        height: 21
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,7 +326,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d1acb778d2cbd46cd9c3642aac9d1af6
     internalID: 0
     vertices: []
     indices: 

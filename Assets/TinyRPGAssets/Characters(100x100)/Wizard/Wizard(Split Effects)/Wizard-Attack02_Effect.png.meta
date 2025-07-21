@@ -147,10 +147,10 @@ TextureImporter:
       name: Wizard-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 41
-        width: 24
-        height: 15
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: Wizard-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 141
-        y: 41
-        width: 22
-        height: 15
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: Wizard-Attack02_Effect_2
       rect:
         serializedVersion: 2
-        x: 237
-        y: 40
-        width: 26
-        height: 17
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: Wizard-Attack02_Effect_3
       rect:
         serializedVersion: 2
-        x: 340
-        y: 40
-        width: 23
-        height: 17
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: Wizard-Attack02_Effect_4
       rect:
         serializedVersion: 2
-        x: 447
-        y: 41
-        width: 16
-        height: 16
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: Wizard-Attack02_Effect_5
       rect:
         serializedVersion: 2
-        x: 544
-        y: 38
-        width: 21
-        height: 21
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: Wizard-Attack02_Effect_6
       rect:
         serializedVersion: 2
-        x: 642
-        y: 36
-        width: 24
-        height: 24
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,7 +301,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 221ce95e2c6be4c57a50b2b15608f3ed
     internalID: 0
     vertices: []
     indices: 

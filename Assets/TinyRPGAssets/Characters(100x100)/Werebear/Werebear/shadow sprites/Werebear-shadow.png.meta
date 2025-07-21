@@ -129,10 +129,10 @@ TextureImporter:
       name: Werebear-shadow_0
       rect:
         serializedVersion: 2
-        x: 42
-        y: 39
-        width: 19
-        height: 7
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 064f562eeaec44b58986011b446d133a
     internalID: 0
     vertices: []
     indices: 

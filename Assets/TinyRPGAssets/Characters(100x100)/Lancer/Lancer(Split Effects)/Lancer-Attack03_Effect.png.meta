@@ -144,10 +144,10 @@ TextureImporter:
       name: Lancer-Attack03_Effect_0
       rect:
         serializedVersion: 2
-        x: 56
-        y: 48
-        width: 32
-        height: 16
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: Lancer-Attack03_Effect_1
       rect:
         serializedVersion: 2
-        x: 157
-        y: 51
-        width: 29
-        height: 10
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +188,10 @@ TextureImporter:
       name: Lancer-Attack03_Effect_2
       rect:
         serializedVersion: 2
-        x: 257
-        y: 50
-        width: 129
-        height: 10
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +210,10 @@ TextureImporter:
       name: Lancer-Attack03_Effect_3
       rect:
         serializedVersion: 2
-        x: 456
-        y: 47
-        width: 32
-        height: 16
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,10 +232,10 @@ TextureImporter:
       name: Lancer-Attack03_Effect_4
       rect:
         serializedVersion: 2
-        x: 557
-        y: 50
-        width: 29
-        height: 10
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,10 +254,10 @@ TextureImporter:
       name: Lancer-Attack03_Effect_5
       rect:
         serializedVersion: 2
-        x: 657
-        y: 51
-        width: 129
-        height: 10
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,11 +272,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack03_Effect_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7b81980f47b4645836c3e12e25609f
+      internalID: 1181975526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lancer-Attack03_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3dcde4e42d34ca08cc9aac01419fc6
+      internalID: 170430189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 608a8ba3568d540dd9231e26b84b7df7
     internalID: 0
     vertices: []
     indices: 
@@ -292,6 +336,8 @@ TextureImporter:
       Lancer-Attack03_Effect_3: -1359908351837275962
       Lancer-Attack03_Effect_4: -1932143551954144949
       Lancer-Attack03_Effect_5: -619025411414096034
+      Lancer-Attack03_Effect_6: 1181975526
+      Lancer-Attack03_Effect_7: 170430189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

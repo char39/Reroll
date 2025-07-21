@@ -129,20 +129,20 @@ TextureImporter:
       name: Arrow02(32x32)_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 11
-        width: 21
-        height: 9
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3ecb100686c93c7f0800000000000000
-      internalID: -593458753781515037
+      spriteID: fd46d6029a8b94803b475c146f1cdef0
+      internalID: -1397081093
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 65f345fbb91b04ad6bdd11d9a9165e8d
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arrow02(32x32)_0: -593458753781515037
+      Arrow02(32x32)_0: -1397081093
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

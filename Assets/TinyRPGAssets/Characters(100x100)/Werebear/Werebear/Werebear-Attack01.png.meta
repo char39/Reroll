@@ -165,10 +165,10 @@ TextureImporter:
       name: Werebear-Attack01_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 42
-        width: 21
-        height: 19
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,10 +187,10 @@ TextureImporter:
       name: Werebear-Attack01_1
       rect:
         serializedVersion: 2
-        x: 141
-        y: 42
-        width: 21
-        height: 20
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,10 +209,10 @@ TextureImporter:
       name: Werebear-Attack01_2
       rect:
         serializedVersion: 2
-        x: 241
-        y: 42
-        width: 23
-        height: 20
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +231,10 @@ TextureImporter:
       name: Werebear-Attack01_3
       rect:
         serializedVersion: 2
-        x: 342
-        y: 42
-        width: 23
-        height: 20
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,10 +253,10 @@ TextureImporter:
       name: Werebear-Attack01_4
       rect:
         serializedVersion: 2
-        x: 443
-        y: 42
-        width: 23
-        height: 20
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,10 +275,10 @@ TextureImporter:
       name: Werebear-Attack01_5
       rect:
         serializedVersion: 2
-        x: 544
-        y: 40
-        width: 25
-        height: 24
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,10 +297,10 @@ TextureImporter:
       name: Werebear-Attack01_6
       rect:
         serializedVersion: 2
-        x: 566
-        y: 41
-        width: 8
-        height: 23
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,10 +319,10 @@ TextureImporter:
       name: Werebear-Attack01_7
       rect:
         serializedVersion: 2
-        x: 571
-        y: 41
-        width: 12
-        height: 24
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,10 +341,10 @@ TextureImporter:
       name: Werebear-Attack01_8
       rect:
         serializedVersion: 2
-        x: 644
-        y: 40
-        width: 25
-        height: 20
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,99 +359,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Werebear-Attack01_9
-      rect:
-        serializedVersion: 2
-        x: 668
-        y: 40
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa99b043316a58710800000000000000
-      internalID: 1694943436182624687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Werebear-Attack01_10
-      rect:
-        serializedVersion: 2
-        x: 673
-        y: 40
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f72d925e61d8e8340800000000000000
-      internalID: 4867983376707605119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Werebear-Attack01_11
-      rect:
-        serializedVersion: 2
-        x: 744
-        y: 42
-        width: 22
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e45edb917af4c1c00800000000000000
-      internalID: 872660006913041742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Werebear-Attack01_12
-      rect:
-        serializedVersion: 2
-        x: 841
-        y: 42
-        width: 21
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 953462e683dbd1b70800000000000000
-      internalID: 8871454891053564761
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 02dcc0af8b96c4c2fb174c4d758170f1
     internalID: 0
     vertices: []
     indices: 
@@ -463,9 +375,6 @@ TextureImporter:
     nameFileIdTable:
       Werebear-Attack01_0: -195695515886222138
       Werebear-Attack01_1: -4621144795108422938
-      Werebear-Attack01_10: 4867983376707605119
-      Werebear-Attack01_11: 872660006913041742
-      Werebear-Attack01_12: 8871454891053564761
       Werebear-Attack01_2: -2721700955551875361
       Werebear-Attack01_3: 305327335533768833
       Werebear-Attack01_4: -294299188037475152
@@ -473,7 +382,6 @@ TextureImporter:
       Werebear-Attack01_6: -7085209821148508112
       Werebear-Attack01_7: -2401144010249928532
       Werebear-Attack01_8: -6517162931334268921
-      Werebear-Attack01_9: 1694943436182624687
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

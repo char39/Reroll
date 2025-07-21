@@ -147,10 +147,10 @@ TextureImporter:
       name: Werebear-Attack01_Effect_0
       rect:
         serializedVersion: 2
-        x: 557
-        y: 40
-        width: 7
-        height: 18
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +169,10 @@ TextureImporter:
       name: Werebear-Attack01_Effect_1
       rect:
         serializedVersion: 2
-        x: 560
-        y: 40
-        width: 9
-        height: 24
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: Werebear-Attack01_Effect_2
       rect:
         serializedVersion: 2
-        x: 566
-        y: 41
-        width: 8
-        height: 23
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: Werebear-Attack01_Effect_3
       rect:
         serializedVersion: 2
-        x: 571
-        y: 41
-        width: 12
-        height: 24
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: Werebear-Attack01_Effect_4
       rect:
         serializedVersion: 2
-        x: 659
-        y: 40
-        width: 10
-        height: 10
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: Werebear-Attack01_Effect_5
       rect:
         serializedVersion: 2
-        x: 668
-        y: 40
-        width: 6
-        height: 11
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: Werebear-Attack01_Effect_6
       rect:
         serializedVersion: 2
-        x: 673
-        y: 40
-        width: 9
-        height: 9
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,11 +297,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Werebear-Attack01_Effect_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55346a1101b74491b47e91addf71f92
+      internalID: -554997354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Werebear-Attack01_Effect_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b61e39ec42ac46c7abc807ab01eda37
+      internalID: -1295692287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 07fb5a05bfc7148b9b5d72b39ec01b2b
     internalID: 0
     vertices: []
     indices: 
@@ -318,6 +362,8 @@ TextureImporter:
       Werebear-Attack01_Effect_4: 4109979966835205883
       Werebear-Attack01_Effect_5: 1249881968959303216
       Werebear-Attack01_Effect_6: 4353270820869518236
+      Werebear-Attack01_Effect_7: -554997354
+      Werebear-Attack01_Effect_8: -1295692287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

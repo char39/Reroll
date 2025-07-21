@@ -162,10 +162,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_0
       rect:
         serializedVersion: 2
-        x: 456
-        y: 45
-        width: 17
-        height: 20
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_1
       rect:
         serializedVersion: 2
-        x: 460
-        y: 41
-        width: 17
-        height: 20
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_2
       rect:
         serializedVersion: 2
-        x: 464
-        y: 38
-        width: 17
-        height: 20
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_3
       rect:
         serializedVersion: 2
-        x: 556
-        y: 45
-        width: 12
-        height: 9
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,10 +250,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_4
       rect:
         serializedVersion: 2
-        x: 560
-        y: 41
-        width: 15
-        height: 13
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +272,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_5
       rect:
         serializedVersion: 2
-        x: 564
-        y: 38
-        width: 15
-        height: 11
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +294,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_6
       rect:
         serializedVersion: 2
-        x: 955
-        y: 34
-        width: 14
-        height: 13
+        x: 600
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -316,10 +316,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_7
       rect:
         serializedVersion: 2
-        x: 958
-        y: 35
-        width: 17
-        height: 16
+        x: 700
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,10 +338,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_8
       rect:
         serializedVersion: 2
-        x: 962
-        y: 37
-        width: 18
-        height: 16
+        x: 800
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,10 +360,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_9
       rect:
         serializedVersion: 2
-        x: 1062
-        y: 35
-        width: 13
-        height: 10
+        x: 900
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,10 +382,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_10
       rect:
         serializedVersion: 2
-        x: 1068
-        y: 37
-        width: 12
-        height: 10
+        x: 1000
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -404,10 +404,10 @@ TextureImporter:
       name: Werebear-Attack02_Effect_11
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 34
-        width: 9
-        height: 7
+        x: 1100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,11 +422,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Werebear-Attack02_Effect_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a26e2ac3689a4080868a5e1e4ae2f80
+      internalID: -2018298643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0003c0c474a7a42bdb9c94f0fc1bfca3
     internalID: 0
     vertices: []
     indices: 
@@ -440,6 +462,7 @@ TextureImporter:
       Werebear-Attack02_Effect_1: 9218812492270588113
       Werebear-Attack02_Effect_10: 4674184471038103911
       Werebear-Attack02_Effect_11: -1482849376730418387
+      Werebear-Attack02_Effect_12: -2018298643
       Werebear-Attack02_Effect_2: 723878099119303989
       Werebear-Attack02_Effect_3: -1397917573409607696
       Werebear-Attack02_Effect_4: 6291625885833608126
