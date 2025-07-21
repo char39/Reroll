@@ -73,7 +73,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -87,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -111,7 +111,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elite Orc-Attack03_0: -6306923447872677095
+      Elite Orc-Attack03_1: -8899292323131592171
+      Elite Orc-Attack03_10: 7706858033720092200
+      Elite Orc-Attack03_11: 3345215215746918520
+      Elite Orc-Attack03_12: 7426892096295523529
+      Elite Orc-Attack03_2: -7623341035367444824
+      Elite Orc-Attack03_3: 702089658906405266
+      Elite Orc-Attack03_4: 5021334874978641779
+      Elite Orc-Attack03_5: 7788941772998517255
+      Elite Orc-Attack03_6: -1408143645937558847
+      Elite Orc-Attack03_7: 8827343941475942506
+      Elite Orc-Attack03_8: 1338739869367029806
+      Elite Orc-Attack03_9: 4718359403638705652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

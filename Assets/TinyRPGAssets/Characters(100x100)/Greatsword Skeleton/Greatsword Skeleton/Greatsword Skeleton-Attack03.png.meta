@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Greatsword Skeleton-Attack03_0: 8014701459705787143
+      Greatsword Skeleton-Attack03_1: 775838429216132997
+      Greatsword Skeleton-Attack03_2: -3179914350392281310
+      Greatsword Skeleton-Attack03_3: -8582042154761806605
+      Greatsword Skeleton-Attack03_4: 9099005510151784878
+      Greatsword Skeleton-Attack03_5: -1547533069828490059
+      Greatsword Skeleton-Attack03_6: 6080823252975782047
+      Greatsword Skeleton-Attack03_7: -3433601177890256822
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
