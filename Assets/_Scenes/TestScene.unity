@@ -1438,6 +1438,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1921445478}
   - component: {fileID: 1921445477}
+  - component: {fileID: 1921445481}
+  - component: {fileID: 1921445480}
+  - component: {fileID: 1921445479}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1491,6 +1494,48 @@ Transform:
   - {fileID: 1849216674}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1921445479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1921445476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d82de58cca945c3a65c4290f1b7906, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1921445480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1921445476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08c83795830f34b548958049dc8321e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveLeftTouched: 0
+  moveRightTouched: 0
+  friction: 0.1
+  speed: 3
+  velocity: 0
+--- !u!114 &1921445481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1921445476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d85bac1c573404bbf471a6f6ab5e9f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerClass: 1
 --- !u!1 &1974177883
 GameObject:
   m_ObjectHideFlags: 0
