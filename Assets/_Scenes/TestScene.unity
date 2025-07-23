@@ -214,7 +214,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5.35
+  orthographic size: 4.875
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -413,7 +413,7 @@ Animator:
   m_GameObject: {fileID: 194930401}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 018e0ff6e89f04c4d9eb81657b7cae57, type: 2}
+  m_Controller: {fileID: 9100000, guid: 836d4a386a9fa40e0975e74981d3f076, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -641,6 +641,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 444225610}
+  - component: {fileID: 444225611}
   m_Layer: 0
   m_Name: Archer
   m_TagString: Untagged
@@ -665,6 +666,18 @@ Transform:
   - {fileID: 1458685061}
   m_Father: {fileID: 1921445478}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &444225611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 444225609}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3f53ccae2774dd296c5859127f0900, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &467144643
 GameObject:
   m_ObjectHideFlags: 0
@@ -709,7 +722,7 @@ Animator:
   m_GameObject: {fileID: 467144643}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 28fda3db57d7f404198b360c3a8f356f, type: 2}
+  m_Controller: {fileID: 9100000, guid: 35619b235a49f45129b9a4437ee9131f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -798,6 +811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 487828026}
+  - component: {fileID: 487828027}
   m_Layer: 0
   m_Name: SwordsMan
   m_TagString: Untagged
@@ -822,6 +836,18 @@ Transform:
   - {fileID: 422771747}
   m_Father: {fileID: 1921445478}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &487828027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 487828025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3f53ccae2774dd296c5859127f0900, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &536582118
 GameObject:
   m_ObjectHideFlags: 0
@@ -944,7 +970,7 @@ Animator:
   m_GameObject: {fileID: 593986548}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 58fd3001251304c9c9593bd901fd0b9c, type: 2}
+  m_Controller: {fileID: 9100000, guid: f4262b45ea0bd4ffb998815e9884480c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1111,6 +1137,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 868059104}
+  - component: {fileID: 868059105}
   m_Layer: 0
   m_Name: Priest
   m_TagString: Untagged
@@ -1135,6 +1162,18 @@ Transform:
   - {fileID: 71255188}
   m_Father: {fileID: 1921445478}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &868059105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 868059103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3f53ccae2774dd296c5859127f0900, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1112493776
 GameObject:
   m_ObjectHideFlags: 0
@@ -1456,6 +1495,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1849216674}
+  - component: {fileID: 1849216675}
   m_Layer: 0
   m_Name: Wizard
   m_TagString: Untagged
@@ -1480,6 +1520,18 @@ Transform:
   - {fileID: 1974177884}
   m_Father: {fileID: 1921445478}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1849216675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849216673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3f53ccae2774dd296c5859127f0900, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1921445476
 GameObject:
   m_ObjectHideFlags: 0
@@ -1560,6 +1612,9 @@ MonoBehaviour:
   isLeftTouched: 0
   isRightTouched: 0
   speed: 3
+  velocity: 0
+  canMove: 1
+  isMove: 0
 --- !u!114 &1921445481
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1572,14 +1627,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62d85bac1c573404bbf471a6f6ab5e9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerClass: 0
-  playerState: 0
+  playerClass: 2
+  playerMoveController: {fileID: 0}
   playerClassObjects:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
   playerAniControllers:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  playerSkillControllers:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}

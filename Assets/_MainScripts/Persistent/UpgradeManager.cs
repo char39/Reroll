@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerData : MonoBehaviour
+public class UpgradeManager : MonoBehaviour
 {
     void Start()
     {
