@@ -6,6 +6,13 @@ public class PlayerAnimationSingleLoopEndBehaviour : StateMachineBehaviour
     {
         var moveController = animator.GetComponentInParent<PlayerMoveController>();
         if (moveController != null)
+        {
             moveController.SetCanMove(true);
+        }
+
+        if (UIManager.playerGUICanvas != null)
+        {
+            UIManager.playerGUICanvas.forceRaycastTarget.SetRaycastTarget(false);
+        }
     }
 }

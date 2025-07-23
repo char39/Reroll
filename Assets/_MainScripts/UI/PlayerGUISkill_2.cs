@@ -6,5 +6,8 @@ public class PlayerGUISkill_2 : PlayerGUISkill
     public event Action OnSkill2Touched;
 
     public override void OnPointerClick(PointerEventData eventData)
-        => OnSkill2Touched?.Invoke();
+    {
+        base.OnPointerClick(eventData);
+        OnSkill2Touched?.Invoke();
+    }
 }

@@ -12,6 +12,9 @@ public class PlayerGUIMove : MonoBehaviour
 
     protected virtual void Awake()
     {
+        imgTr = transform.GetChild(0).transform;
+        img = imgTr.GetComponent<Image>();
+
         raycaster = GetComponentInParent<Canvas>().GetComponent<GraphicRaycaster>();
         eventSystem = EventSystem.current;
     }
@@ -41,5 +44,24 @@ public class PlayerGUIMove : MonoBehaviour
                 }
             }
         }
+    }
+
+    protected virtual void FixedUpdate()
+    {
+        RefreshTouchGUI();
+    }
+
+    protected Transform imgTr;
+    protected Image img;
+    protected Vector2 originSize = new(1.0f, 1.0f);
+    protected Vector2 touchedSize = new(0.85f, 0.85f);
+    protected Color originColor = new(0.75f, 0.75f, 0.75f, 0.75f);
+    protected Color touchedColor = new(0.4f, 0.4f, 0.4f, 0.75f);
+
+    protected virtual void RefreshTouchGUI()
+    {
+        if (imgTr == null || img == null) return;
+        imgTr.localScale = isTouchOnUI ? touchedSize : originSize;
+        img.color = isTouchOnUI ? touchedColor : originColor;
     }
 }
