@@ -16,7 +16,7 @@ public class PlayerAniController : MonoBehaviour
     private readonly int HashAttack2 = Animator.StringToHash("Attack2");
     private readonly int HashAttack3 = Animator.StringToHash("Attack3");
 
-    void Start()
+    void OnEnable()
     {
         TryGetComponent(out sr);
         TryGetComponent(out ani);

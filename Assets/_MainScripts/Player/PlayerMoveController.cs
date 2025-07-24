@@ -12,7 +12,7 @@ public class PlayerMoveController : MonoBehaviour
     private const float friction = 0.1f;
     private int reverse;
 
-    void Start()
+    void OnEnable()
     {
         TryGetComponent(out rb);
 

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerSkillController : MonoBehaviour
 {
-    void Start()
+    void OnEnable()
     {
         UIManager.playerGUICanvas.playerGUISkill_1.OnSkill1Touched += SetSkill1Touched;
         UIManager.playerGUICanvas.playerGUISkill_2.OnSkill2Touched += SetSkill2Touched;

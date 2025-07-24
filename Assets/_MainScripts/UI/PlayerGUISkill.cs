@@ -1,11 +1,31 @@
 using System.Collections;
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class PlayerGUISkill : MonoBehaviour, IPointerClickHandler
+public class PlayerGUISkill : MonoBehaviour
 {
-    public virtual void OnPointerClick(PointerEventData eventData)
+    private PlayerGUITouchEvent playerGUITouchEvent;
+    private Image buttonImg;
+    public Image coolDownImg;   // 유니티에서 직접 할당
+    public Image skillImg;      // ''
+
+    public float coolDownTime = 2.0f;
+    private float timer;
+
+    void OnEnable()
+    {
+        TryGetComponent(out playerGUITouchEvent);
+        TryGetComponent(out buttonImg);
+
+        playerGUITouchEvent.OnTriggerTouchEvent += OnClick;
+    }
+
+    void OnDisable()
+    {
+        playerGUITouchEvent.OnTriggerTouchEvent -= OnClick;
+    }
+
+    protected virtual void OnClick()
     {
         if (UIManager.playerGUICanvas != null)
             UIManager.playerGUICanvas.forceRaycastTarget.SetRaycastTarget(true);    // 스킬 사용 도중 다른 스킬 사용을 못하게 하기 위함
@@ -15,19 +35,7 @@ public class PlayerGUISkill : MonoBehaviour, IPointerClickHandler
         StartCoroutine(nameof(CoolDownTimer));
     }
 
-    private Image buttonImg;
-    public Image coolDownImg;   // 유니티에서 직접 할당
-    public Image skillImg;      // ''
-
-    public float coolDownTime = 2.0f;
-    private float timer;
-
-    void Awake()
-    {
-        TryGetComponent(out buttonImg);
-    }
-
-    public void SetRaycastTarget(bool value)
+    private void SetRaycastTarget(bool value)
     {
         if (buttonImg == null) return;
         buttonImg.raycastTarget = value;
