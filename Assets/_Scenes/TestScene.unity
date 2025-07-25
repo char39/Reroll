@@ -1609,12 +1609,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 08c83795830f34b548958049dc8321e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isLeftTouched: 0
-  isRightTouched: 0
-  speed: 3
-  velocity: 0
-  canMove: 1
-  isMove: 0
 --- !u!114 &1921445481
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1627,23 +1621,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62d85bac1c573404bbf471a6f6ab5e9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  classObjects: []
+  moveController: {fileID: 0}
+  aniControllers: []
+  skillControllers: []
+  classCount: 0
+  entityClass: 0
   playerClass: 0
-  playerMoveController: {fileID: 0}
-  playerClassObjects:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  playerAniControllers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  playerSkillControllers:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
 --- !u!1 &1974177883
 GameObject:
   m_ObjectHideFlags: 0
