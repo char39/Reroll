@@ -56,7 +56,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Death
+  m_Name: Orc rider-Death
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -70,7 +70,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: d878f96925cd34a35bc5de5c36f60401, type: 2}
+  m_Motion: {fileID: 7400000, guid: e600d609723994044be23d92dc370d12, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -95,7 +95,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Attack03
+  m_Name: Orc rider-Attack03
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -110,7 +110,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: baec7e615ed2440568e7ac8bf8848fa7, type: 2}
+  m_Motion: {fileID: 7400000, guid: e92891d5942bb40348ba2eff557a97f4, type: 2}
   m_Tag: 
   m_SpeedParameter: AttackSpeed
   m_MirrorParameter: 
@@ -207,7 +207,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Attack01
+  m_Name: Orc rider-Attack01
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -222,7 +222,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: d2d9033e92d4b4a7f8ad65c470ed3194, type: 2}
+  m_Motion: {fileID: 7400000, guid: accd9647613ea4e42bb21fdc213c85f1, type: 2}
   m_Tag: 
   m_SpeedParameter: AttackSpeed
   m_MirrorParameter: 
@@ -304,7 +304,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Attack02
+  m_Name: Orc rider-Attack02
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -319,7 +319,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 98758f6bca05b42f0a30d81c3c5c609f, type: 2}
+  m_Motion: {fileID: 7400000, guid: 72a86d3089467447fa594ae85f9442de, type: 2}
   m_Tag: 
   m_SpeedParameter: AttackSpeed
   m_MirrorParameter: 
@@ -357,7 +357,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Idle
+  m_Name: Orc rider-Idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -371,7 +371,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f5e1e8abe6d024b758f4346f387fc1e3, type: 2}
+  m_Motion: {fileID: 7400000, guid: ab28c7cca84cc423a8a9ba9c764ec3ef, type: 2}
   m_Tag: 
   m_SpeedParameter: MoveSpeed
   m_MirrorParameter: 
@@ -383,7 +383,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman with shadows
+  m_Name: Orc rider with shadows
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: MoveSpeed
@@ -485,7 +485,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Hurt
+  m_Name: Orc rider-Hurt
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -500,7 +500,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 301a1a90234d54fb2ace9a036e1bd2b2, type: 2}
+  m_Motion: {fileID: 7400000, guid: 760f93b0ea21e4b4cac8d6951a6bf454, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -610,7 +610,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Walk
+  m_Name: Orc rider-Walk
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -624,7 +624,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f88b5749f223f4d6ca30a0ff32842752, type: 2}
+  m_Motion: {fileID: 7400000, guid: bfc080a40d273457f8572b073977384d, type: 2}
   m_Tag: 
   m_SpeedParameter: MoveSpeed
   m_MirrorParameter: 

@@ -56,7 +56,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Death
+  m_Name: Orc-Death
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -70,53 +70,13 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: d878f96925cd34a35bc5de5c36f60401, type: 2}
+  m_Motion: {fileID: 7400000, guid: 4e296e2c56a7e43b1a39a0307d15681b, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
 --- !u!114 &-6869184529041040340
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 977316e62a4e942c5a91f2b771079544, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1102 &-6497821243513649675
-AnimatorState:
-  serializedVersion: 6
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Attack03
-  m_Speed: 1
-  m_CycleOffset: 0
-  m_Transitions:
-  - {fileID: 8728858909631457571}
-  m_StateMachineBehaviours:
-  - {fileID: -5459325882462338798}
-  m_Position: {x: 50, y: 50, z: 0}
-  m_IKOnFeet: 0
-  m_WriteDefaultValues: 1
-  m_Mirror: 0
-  m_SpeedParameterActive: 1
-  m_MirrorParameterActive: 0
-  m_CycleOffsetParameterActive: 0
-  m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: baec7e615ed2440568e7ac8bf8848fa7, type: 2}
-  m_Tag: 
-  m_SpeedParameter: AttackSpeed
-  m_MirrorParameter: 
-  m_CycleOffsetParameter: 
-  m_TimeParameter: 
---- !u!114 &-5459325882462338798
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -207,7 +167,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Attack01
+  m_Name: Orc-Attack01
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -222,7 +182,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: d2d9033e92d4b4a7f8ad65c470ed3194, type: 2}
+  m_Motion: {fileID: 7400000, guid: 5cf231592137a493c931cadde2df9bf2, type: 2}
   m_Tag: 
   m_SpeedParameter: AttackSpeed
   m_MirrorParameter: 
@@ -304,7 +264,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Attack02
+  m_Name: Orc-Attack02
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -319,7 +279,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 98758f6bca05b42f0a30d81c3c5c609f, type: 2}
+  m_Motion: {fileID: 7400000, guid: fea8a28112f8646f892933ea949b661e, type: 2}
   m_Tag: 
   m_SpeedParameter: AttackSpeed
   m_MirrorParameter: 
@@ -357,7 +317,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Idle
+  m_Name: Orc-Idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -371,7 +331,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f5e1e8abe6d024b758f4346f387fc1e3, type: 2}
+  m_Motion: {fileID: 7400000, guid: c7768c8c173ff460b807e1d8a00d064d, type: 2}
   m_Tag: 
   m_SpeedParameter: MoveSpeed
   m_MirrorParameter: 
@@ -383,7 +343,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman with shadows
+  m_Name: Orc with shadows
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: MoveSpeed
@@ -453,31 +413,6 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
---- !u!1101 &706710034347494800
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions:
-  - m_ConditionMode: 1
-    m_ConditionEvent: Attack3
-    m_EventTreshold: 0
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: -6497821243513649675}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0
-  m_TransitionOffset: 0
-  m_ExitTime: 0
-  m_HasExitTime: 0
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
 --- !u!1102 &2637584927651551112
 AnimatorState:
   serializedVersion: 6
@@ -485,7 +420,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Hurt
+  m_Name: Orc-Hurt
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -500,7 +435,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 301a1a90234d54fb2ace9a036e1bd2b2, type: 2}
+  m_Motion: {fileID: 7400000, guid: 86730a6d35a7f4a44932e9621496ba2d, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -581,28 +516,6 @@ AnimatorStateTransition:
   m_InterruptionSource: 0
   m_OrderedInterruption: 1
   m_CanTransitionToSelf: 1
---- !u!1101 &8728858909631457571
-AnimatorStateTransition:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_Conditions: []
-  m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: -259426639281999269}
-  m_Solo: 0
-  m_Mute: 0
-  m_IsExit: 0
-  serializedVersion: 3
-  m_TransitionDuration: 0
-  m_TransitionOffset: 0
-  m_ExitTime: 1
-  m_HasExitTime: 1
-  m_HasFixedDuration: 1
-  m_InterruptionSource: 0
-  m_OrderedInterruption: 1
-  m_CanTransitionToSelf: 1
 --- !u!1102 &9088065303645225197
 AnimatorState:
   serializedVersion: 6
@@ -610,7 +523,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Swordsman-Walk
+  m_Name: Orc-Walk
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -624,7 +537,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f88b5749f223f4d6ca30a0ff32842752, type: 2}
+  m_Motion: {fileID: 7400000, guid: 955e4ec3f925445dd80d4e23bc8df6e3, type: 2}
   m_Tag: 
   m_SpeedParameter: MoveSpeed
   m_MirrorParameter: 
@@ -649,9 +562,6 @@ AnimatorStateMachine:
     m_State: {fileID: -1148710312362247456}
     m_Position: {x: 580, y: 170, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: -6497821243513649675}
-    m_Position: {x: 580, y: 230, z: 0}
-  - serializedVersion: 1
     m_State: {fileID: -7092748464178555001}
     m_Position: {x: 580, y: 290, z: 0}
   - serializedVersion: 1
@@ -665,7 +575,6 @@ AnimatorStateMachine:
   - {fileID: 3594734864321537396}
   - {fileID: 8571709644132437795}
   - {fileID: -4792329401095200651}
-  - {fileID: 706710034347494800}
   - {fileID: -7546242350689588970}
   - {fileID: 4553703434558634924}
   m_EntryTransitions: []
